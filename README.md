@@ -1,5 +1,7 @@
 # Seproject
 
+null
+
 # อ่านด้วยสัส
 
 <b>menu.vue -> PostList.vue -> PostContent.vue</b> ไล่ดูโค้ด แค่สามส่วนนี้ พอ </br>
@@ -11,6 +13,10 @@ cd se-project-eeam
 yarn
 yarn run dev
 ```
+
+# example
+
+![example](/assets/example.png)
 
 ## Build Setup
 
