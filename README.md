@@ -1,7 +1,10 @@
 # Seproject
 
 # อ่านด้วยสัส
+
+<b>menu.vue -> PostList.vue -> PostContent.vue</b> ไล่ดูโค้ด แค่สามส่วนนี้ พอ </br>
 ทำตามนี้ไอฟาย โดย คำสั่ง yarn เอาไว้ install module, yarn run dev เอาไว้ เปิดเซิฟ frontend
+
 ```
 git clone https://github.com/zergreen/se-project-eeam.git
 cd se-project-eeam
