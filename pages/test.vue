@@ -1,13 +1,8 @@
 <template>
-  <div> test page <img src="@/assets/q11.jpg" alt=""> </div>
+  <b-container fluid="md">
+    <h4>เมนูแนะนำ</h4>
+    <div class="mt-3">
+      <PostList2 />
+    </div>
+  </b-container>
 </template>
-
-<script>
-export default {
-
-}
-</script>
-
-<style>
-
-</style>
